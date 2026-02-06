@@ -11,3 +11,22 @@ El programa realiza un proceso de traducción en tres etapas principales:
 ## 💻 Especificaciones Técnicas
 * **Lenguaje:** C puro para un manejo eficiente de memoria y estructuras.
 * **Salida:** Genera un archivo con las instrucciones equivalentes en ensamblador listas para ser analizadas.
+
+**english**
+
+# Infix to Assembler Converter
+
+An engineering project focused on compiler logic that translates arithmetic expressions from infix notation to functional assembly language.
+
+## 🧠 Project Logic
+The program performs a translation process in three main stages:
+1. **Analysis:** Receives an arithmetic expression (e.g., `(A+B)*C`).
+
+2. **Transformation:** Converts the expression to postfix notation (RPN) to facilitate its logical processing.
+
+3. **Code Generation:** Translates the resulting expression into low-level instructions (Assembly), managing the use of registers and the stack.
+
+## 💻 Technical Specifications
+* **Language:** Pure C for efficient memory and structure management.
+
+* **Output:** Generates a file with the equivalent assembly instructions ready for analysis.

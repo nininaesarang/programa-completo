@@ -12,7 +12,6 @@ El programa realiza un proceso de traducción en tres etapas principales:
 * **Lenguaje:** C puro para un manejo eficiente de memoria y estructuras.
 * **Salida:** Genera un archivo con las instrucciones equivalentes en ensamblador listas para ser analizadas.
 
-**english**
 
 # Infix to Assembler Converter
 
